@@ -1,0 +1,6 @@
+17:23:18 **** Rebuild of configuration Debug for project ExerciseFour ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ExerciseFour.o" "..\\src\\ExerciseFour.cpp" 
+g++ -o ExerciseFour.exe "src\\ExerciseFour.o" 
+Info: Nothing to build for ExerciseFour
+Info: Nothing to build for ExerciseFour

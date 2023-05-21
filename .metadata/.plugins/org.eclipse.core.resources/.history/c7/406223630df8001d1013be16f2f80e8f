@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int N;
+	int M;
+	int totalM = 0;
+	int multiples;
+
+	cin >> N;
+	cin >> M;
+
+	totalM = N / M;
+
+
+
+	cout << "Total of multiples: " << totalM << endl;
+
+	while(totalM > 1){
+
+	}
+	cout << "Multiples: " << multiples << endl;
+
+	return 0;
+}
+

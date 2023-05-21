@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int N;
+	int M;
+	int totalM = 0;
+
+
+	cin >> N;
+	cin >> M;
+
+
+
+
+
+
+
+	cout << "Total of equilateral: " << totalE << endl;
+	cout << "Total of isosceles: " << totalI << endl;
+	cout << "Total of scalene: " << totalS << endl;
+	return 0;
+}
+

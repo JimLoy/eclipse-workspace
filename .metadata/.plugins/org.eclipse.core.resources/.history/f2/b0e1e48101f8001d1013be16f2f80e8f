@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int totalZ = 0;
+	int averageP = 0;
+	int sumN = 0;
+	int value;
+	cin >> value;
+	while()
+	return 0;
+}
